@@ -1,5 +1,5 @@
-# Exercise-05a-Movement
-
+# Exercise-05b-ProceduralGeneration
+Procedurally-generated 3D maze.
 
 ## Implementation
 
@@ -8,4 +8,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Angela Tan
